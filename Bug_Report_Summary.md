@@ -19,22 +19,22 @@ List 3 things you expect the To-Do app to do correctly.
 ## 🐛 Reported Bugs  
 
 ### 🐞 BUG-001  
-**Title**: [Copy-paste GitHub Issue Title]  
-**GitHub Link**: [Paste Issue Link]  
-**Requirement Affected**: [e.g., Input Validation]  
-**Severity**: [High / Medium / Low]  
+**Title**: [New Todo is made with an empty task]  
+**GitHub Link**: [https://github.com/Raeyn22/PLP-software-testing-week-1-Assignment-/issues/1]  
+**Requirement Affected**: [Input Validation]  
+**Severity**: [High]  
 **Summary**:  
-[1–2 sentences describing the bug and its impact.]
+[Empty task can easily be added without restrictions.]
 
 ---
 
 ### 🐞 BUG-002  
-**Title**: [Copy-paste GitHub Issue Title]  
-**GitHub Link**: [Paste Issue Link]  
-**Requirement Affected**: [e.g., Data Persistence]  
-**Severity**: [High / Medium / Low]  
+**Title**: [Task disappears after refreshing the page]  
+**GitHub Link**: [https://github.com/Raeyn22/PLP-software-testing-week-1-Assignment-/issues/2]  
+**Requirement Affected**: [Data Persistence]  
+**Severity**: [High]  
 **Summary**:  
-[1–2 sentences describing the bug and its impact.]
+[All tasks in the todo automatically disappear once the page is refreshed. No task is saved and you have to add tasks again.]
 
 ---
 
