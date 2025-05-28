@@ -20,7 +20,7 @@ List 3 things you expect the To-Do app to do correctly.
 
 ### 🐞 BUG-001  
 **Title**: [New Todo is made with an empty task]  
-**GitHub Link**: [https://github.com/Raeyn22/PLP-software-testing-week-1-Assignment-/issues/1]  
+**GitHub Link**: [https://github.com/Raeyn22/PLP-software-testing-week-1-Assignment-/issues/1#issue-3097225105]  
 **Requirement Affected**: [Input Validation]  
 **Severity**: [High]  
 **Summary**:  
@@ -30,7 +30,7 @@ List 3 things you expect the To-Do app to do correctly.
 
 ### 🐞 BUG-002  
 **Title**: [Task disappears after refreshing the page]  
-**GitHub Link**: [https://github.com/Raeyn22/PLP-software-testing-week-1-Assignment-/issues/2]  
+**GitHub Link**: [https://github.com/Raeyn22/PLP-software-testing-week-1-Assignment-/issues/2#issue-3097252283]  
 **Requirement Affected**: [Data Persistence]  
 **Severity**: [High]  
 **Summary**:  
@@ -42,6 +42,9 @@ List 3 things you expect the To-Do app to do correctly.
 
 Answer briefly (1–2 paragraphs):
 
-- What was your testing approach?  
-- What did you find easy or difficult during the task?  
+- What was your testing approach?
+  I used the 7 software testing principles to help me test efficiently. 
+- What did you find easy or difficult during the task?
+Overall I found the task easy as the testing instructions was straightforward. Though trouble shooting was challenging as it meant trying different things to hopefully find a bug.
 - How confident are you now in identifying and reporting bugs?
+I'm relatively confident.
